@@ -17,7 +17,7 @@ const About = () => {
 
             <p className='text-xl'>
                 I have previously worked with 2 startups where I have contributed my work in the frontend domain.
-                Looking forward for new challenges and learning new tech stacks.
+                Looking forward to new challenges and learning new tech stacks.
                 Scroll down and look at my projects, feel free to connect with me over socials.
             </p>
         </div>
