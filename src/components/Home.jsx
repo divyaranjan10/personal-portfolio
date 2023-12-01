@@ -9,7 +9,7 @@ const Home = () => {
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl font-bold sm:text-7xl text-white'>I specialize in Frontend Dev.</h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    I have previously worked for 2 startups where I have contributed my work in the frontend domain.
+                    I'm a frontend developer experienced in various technologies like HTML, CSS, JS, React, Redux and Tailwind CSS.
                     Looking forward for new challenges and I love to build web applications using HTML, CSS, React and Tailwind.
                     Scroll down and look at my projects, feel free to connect with me over socials.
                 </p>
