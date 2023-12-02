@@ -9,8 +9,12 @@ const Contact = () => {
                 <p className='py-6'>Submit the form below to get in touch with me</p>
             </div>
 
-            <div>
-                <form action=''>
+            <div className='flex justify-center items-center'>
+                <form 
+                    action='https://getform.io/f/fee7aaef-7c49-4fec-8fea-367a47c9e0b5' 
+                    className='flex flex-col w-full md:w-1/2 '
+                    method='POST'
+                >
                     <input 
                         type='text' 
                         name='name' 
@@ -21,10 +25,11 @@ const Contact = () => {
                         type='text' 
                         name='email' 
                         placeholder='Enter your email'
-                        className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'
+                        className='p-2 my-2 bg-transparent border-2 rounded-md text-white focus:outline-none'
                     />
                     <textarea
                         name='message'
+                        placeholder='Enter your message!'
                         rows="10"
                         className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'    
                     >
