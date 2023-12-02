@@ -27,9 +27,9 @@ const Contact = () => {
                         placeholder='Enter your email'
                         className='p-2 my-2 bg-transparent border-2 rounded-md text-white focus:outline-none'
                     />
-                    <textarea
+                    <textarea  
                         name='message'
-                        placeholder='Enter your message!'
+                        placeholder='Enter your message! '
                         rows="10"
                         className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'    
                     >
