@@ -1,6 +1,7 @@
 import React from 'react';
 import foodDeliveryApp from '../assets/portfolio/food-delivery-app.png';
 import studyNotion from '../assets/portfolio/studynotion-website.png';
+import youtubeClone from '../assets/portfolio/youtube-clone-react.png';
 
 const Portfolio = () => {
 
@@ -19,9 +20,9 @@ const Portfolio = () => {
         },
         {
             id: 3,
-            src: foodDeliveryApp,
-            demolink: "https://food-delivery-app-neon.vercel.app/",
-            codelink: "https://github.com/divyaranjan10/food-delivery-app"
+            src: youtubeClone,
+            demolink: "https://youtube-clone-react-kappa.vercel.app/",
+            codelink: "https://github.com/divyaranjan10/youtube-clone-react"
         }
     ]
 
